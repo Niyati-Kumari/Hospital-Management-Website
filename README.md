@@ -15,7 +15,7 @@ The Hospital Management App is a streamlined, user-friendly web application desi
 - **Deployment**: Render, GitHub Pages
 
 6. **Access the App:**
-   Visit the live app: [Hospital Management App](https://niyati-kumari.github.io/Hospital-Management-App/)
+   Visit the live app: [Hospital Management App](https://niyati-kumari.github.io/Hospital-Management-Website/)
 
 ## Application Overview
 ### User Interface
